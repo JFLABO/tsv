@@ -19,3 +19,5 @@ data/test.txtに日記（データ）を書く
 代表口座　東栄信用金庫 　　1321-003-21-1050120　亀戸支店
 
 djinjson.phpはdata/test.txtをJSONに変換するプログラムです。
+
+Let's play it by ear!
