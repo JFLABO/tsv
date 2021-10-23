@@ -20,4 +20,4 @@ data/test.txtに日記（データ）を書く
 
 djinjson.phpはdata/test.txtをJSONに変換するプログラムです。
 
-Let's play it by ear!
+Let's play it by ear!Powerd by GNU
