@@ -1,6 +1,6 @@
 
 #ジェイエフラボの tsv
-日記記録システム
+日記記録システム DXの素（もと）
 
 できるだけ無駄なく快適に記録を取ることを目的に設計されたプログラムです。
 
@@ -21,3 +21,5 @@ data/test.txtに日記（データ）を書く
 djinjson.phpはdata/test.txtをJSONに変換するプログラムです。
 
 Let's play it by ear!Powerd by GNU
+
+チームでつなげてJSON交換ができます。
