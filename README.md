@@ -23,3 +23,5 @@ djinjson.phpはdata/test.txtをJSONに変換するプログラムです。
 Let's play it by ear!Powerd by GNU
 
 チームでつなげてJSON交換ができます。
+
+自分の身の回りであったことを仲間に伝えたい人に向いています。
