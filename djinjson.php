@@ -76,6 +76,7 @@ foreach ($arr as $v) {
 ?>
 <PRE>
 <?php
+//最新のOSではPHP jsonがインクルードされていないことがあるのでyumで入れる
 $jsonstr=json_encode($d,JSON_UNESCAPED_UNICODE|JSON_PRETTY_PRINT);
 echo $jsonstr;
 //var_dump($d);
